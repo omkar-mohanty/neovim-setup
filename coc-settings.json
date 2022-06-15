@@ -1,4 +1,5 @@
 {
-	"diagnostic.checkCurrentLine": true
+	"diagnostic.checkCurrentLine": true ,
+	"rust-analyzer.cargo.buildScripts.enable": false 
 }
 
